@@ -1,0 +1,19 @@
+openapi: 3.0.0
+info:
+  title: 운의웹 Plugin API
+  version: 1.0.0
+paths:
+  /search:
+    post:
+      summary: 운의웹 EF DB 검색
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                query:
+                  type: string
+      responses:
+        '200':
+          description: 검색 결과
