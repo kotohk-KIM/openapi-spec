@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "운의웹 Plugin",
+  "name_for_model": "uniweb_plugin",
+  "description_for_human": "운의웹 EF DB에서 EF 데이터를 검색하고 요약합니다.",
+  "description_for_model": "Plugin for searching EF data from 운의웹 Notion database and summarizing them into EF structure.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://raw.githubusercontent.com/kotohk-KIM/openapi-spec/refs/heads/main/openapi.yaml"
+  },
+  "logo_url": "https://raw.githubusercontent.com/kotohk-KIM/openapi-spec/main/logo.png",
+  "contact_email": "kotohk@gmail.com",
+  "legal_info_url": "https://github.com/kotohk-KIM/openapi-spec/deployments/github-pages"
+}
