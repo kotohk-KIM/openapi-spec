@@ -9,9 +9,9 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://raw.githubusercontent.com/kotohk-KIM/openapi-spec/refs/heads/main/openapi.yaml"
+    "url": "https://raw.githubusercontent.com/kotohk-KIM/openapi-spec/main/openapi.yaml"
   },
   "logo_url": "https://raw.githubusercontent.com/kotohk-KIM/openapi-spec/main/logo.png",
   "contact_email": "kotohk@gmail.com",
-  "legal_info_url": "https://github.com/kotohk-KIM/openapi-spec/deployments/github-pages"
+  "legal_info_url": "https://kotohk-kim.github.io/openapi-spec/legal.html"
 }
